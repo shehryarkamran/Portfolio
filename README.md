@@ -7,7 +7,6 @@ This project is a HTML/CSS based scrolling website, that uses Javascript for the
 * Project-written HTML templates for styling and content.
 ### Acknowledgements ###
 I used the following websites for help building my project:
-
   *  FlatIcon for Card Images
   *  Dynamic CSS Timeline Template
   *  Particles.js Library for Background
